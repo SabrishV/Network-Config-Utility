@@ -62,7 +62,7 @@ cd Network-Config-Utility
 
 ## Usage
 
-Run the `network_config.bat` file by either double-clicking it or executing it from an elevated Command Prompt. The script will guide you through the following steps:
+Run the `sabnetwork_config.bat` file by either double-clicking it or executing it from an elevated Command Prompt. The script will guide you through the following steps:
 
 ### Select an Interface:
 Choose between Ethernet or Wi‑Fi for configuration.
@@ -83,7 +83,7 @@ Refresh the displayed status or change the interface selection as needed.
 
 ## Configuration
 
-Before using the script, open the `network_config.bat` file in your preferred text editor and customize the placeholders with your actual network settings:
+Before using the script, open the `sabnetwork_config.bat` file in your preferred text editor and customize the placeholders with your actual network settings:
 
 ### For Home Static IP:
 - `<HOME_STATIC_IP>`: Your Home static IP address.
@@ -103,8 +103,9 @@ Before using the script, open the `network_config.bat` file in your preferred te
 
 ```plaintext
 .
+├── LICENSE           #The MIT Licensing
 ├── README.md           # This documentation file
-└── network_config.bat  # Main batch script for network configuration
+└── sabnetwork_config.bat  # Main batch script for network configuration
 ```
 
 ## License
