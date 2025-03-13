@@ -67,6 +67,8 @@ Run the `sabnetwork_config.bat` file by either double-clicking it or executing i
 ### Select an Interface:
 Choose between Ethernet or Wi‑Fi for configuration.
 
+![Interface Selection](https://github.com/SabrishV/Network-Config-Utility/blob/main/UI%20Images/Screenshot%202025-03-08%20180425.png)
+
 ### View Current Settings:
 The script displays the current network configuration details such as IP address, subnet mask, gateway, and DNS servers. When Wi‑Fi is selected, additional details like SSID, BSSID, and signal strength are shown.
 
@@ -75,6 +77,9 @@ You can choose to:
 - Switch to **DHCP (Automatic)**
 - Set a **Home Static IP** configuration
 - Set an **Office Static IP** configuration
+  
+![Config](https://github.com/SabrishV/Network-Config-Utility/blob/main/UI%20Images/Screenshot%202025-03-08%20180526.png)
+
 
 ### Refresh or Change:
 Refresh the displayed status or change the interface selection as needed.
